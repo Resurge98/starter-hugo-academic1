@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: LIU Yuzhou 刘宇舟
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Yuzhou
+last_name: Liu
 
 # Status emoji
 status:
@@ -14,34 +14,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Singapore Management University
+    url: https://www.smu.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include optimization under uncertainty with application in operations management.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Optimization under Uncertainty
+  - Operations Management
+  - Distributionally Robust Optimization
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Operations Management
+      institution: Singapore Management University
+      year: 2023-Present
+    - course: M.S. in Mathematics
+      institution: Nanjing University
+      year: 2020-2023
+    - course: B.S. in Mathematics
+      institution: Nanjing University
+      year: 2016-2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is LIU Yuzhou , a Ph.D. student in Lee Kong Chian School of Business at Singapore Management University. My research interests include decision under uncertainty with application in operations management, especially on the distributionally robust optimization paradigm. 
 {style="text-align: justify;"}
