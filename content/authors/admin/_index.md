@@ -51,7 +51,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-    #mail_to: yuzhou.liu.2023@pbs.smu.edu.sg
 #  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon #pack
 #    icon_pack: fas
 #    link: https://scholar.google.com
