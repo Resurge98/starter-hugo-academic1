@@ -178,6 +178,8 @@ sections:
     id: Research
     content:
       title: Research
+      subtitle: Publications
+      text: |-
       subtitle: Works in Progress
       text: |-
         {{% callout note %}}
