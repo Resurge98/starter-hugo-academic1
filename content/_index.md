@@ -182,10 +182,10 @@ sections:
       text: |-
       subtitle: Works in Progress
       text: |-
-#        {{% callout note %}}
-#        Quickly discover relevant content by [filtering publications](./publication/).
-#        {{% /callout %}}
-#      filters:
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
         folders:
           - publication
         exclude_featured: true
