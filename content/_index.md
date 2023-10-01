@@ -208,17 +208,17 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      #text: |-
+        #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, #venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: yuzhou.liu.2023@pbs.smu.edu.sg
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
+        street: Lee Kong Chian School of Business
+        city: Stamford Road
+        #region: CA
+        postcode: '178899'
         country: Singapore
         country_code: SG
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
