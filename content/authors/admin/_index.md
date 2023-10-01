@@ -22,11 +22,11 @@ organizations:
     url: https://www.smu.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include optimization under uncertainty with application in operations management.
+bio: My research interests include decision making under uncertainty with application in operations management.
 
 # Interests to show in About widget
 interests:
-  - Optimization under Uncertainty
+  - Decision Making under Uncertainty
   - Operations Management
   - Distributionally Robust Optimization
 
@@ -71,5 +71,5 @@ email: ''
 highlight_name: true
 ---
 
-My name is LIU Yuzhou, now a Ph.D. student in Lee Kong Chian School of Business at Singapore Management University. My research interests include decision under uncertainty with application in operations management, especially on the distributionally robust optimization paradigm. 
+My name is LIU Yuzhou, now a Ph.D. student in Lee Kong Chian School of Business at Singapore Management University. My research interests include optimization under uncertainty with application in operations management, especially on the distributionally robust optimization paradigm. 
 {style="text-align: justify;"}
