@@ -180,13 +180,6 @@ sections:
       title: Research
       subtitle: Publications
       text: |-
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-
       subtitle: Works in Progress
       text: |-
 #        {{% callout note %}}
