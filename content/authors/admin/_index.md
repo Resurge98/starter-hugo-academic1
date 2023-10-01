@@ -52,12 +52,12 @@ social:
     icon_pack: fas
     link: /#contact
     #mail_to: yuzhou.liu.2023@pbs.smu.edu.sg
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Resurge98/
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon #pack
+#    icon_pack: fas
+#    link: https://scholar.google.com
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/Resurge98/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
