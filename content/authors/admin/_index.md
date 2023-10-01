@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: yuzhou.liu.2023@pbs.smu.edu.sg
     #mailto: yuzhou.liu.2023@pbs.smu.edu.sg
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
@@ -72,5 +72,5 @@ email: ''
 highlight_name: true
 ---
 
-My name is LIU Yuzhou , a Ph.D. student in Lee Kong Chian School of Business at Singapore Management University. My research interests include decision under uncertainty with application in operations management, especially on the distributionally robust optimization paradigm. 
+My name is LIU Yuzhou, now a Ph.D. student in Lee Kong Chian School of Business at Singapore Management University. My research interests include decision under uncertainty with application in operations management, especially on the distributionally robust optimization paradigm. 
 {style="text-align: justify;"}
