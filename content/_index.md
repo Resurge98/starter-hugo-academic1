@@ -180,12 +180,19 @@ sections:
       title: Research
       subtitle: Publications
       text: |-
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+
       subtitle: Works in Progress
       text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
+#        {{% callout note %}}
+#        Quickly discover relevant content by [filtering publications](./publication/).
+#        {{% /callout %}}
+#      filters:
         folders:
           - publication
         exclude_featured: true
