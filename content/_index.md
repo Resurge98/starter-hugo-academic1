@@ -178,8 +178,12 @@ sections:
     id: research
     content:
       title: Research
-#      subtitle: Publications
-#      text: |-
+      subtitle: Publications
+      text: |-
+      filters:
+        folders:
+          - publication
+        featured_only: true
       subtitle: Works in Progress
       text: |-
         {{% callout note %}}
