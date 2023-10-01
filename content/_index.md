@@ -175,8 +175,10 @@ sections:
   #    columns: '2'
   #    view: card
   - block: collection
+    id: Research
     content:
-      title: Works in Progress
+      title: Research
+      subtitle: Works in Progress
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
