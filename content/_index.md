@@ -178,12 +178,6 @@ sections:
     id: research
     content:
       title: Research
-      subtitle: Publications
-      text: |-
-      filters:
-        folders:
-          - publication
-        featured_only: true
       subtitle: Works in Progress
       text: |-
         {{% callout note %}}
@@ -195,7 +189,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: citation
+      #view: citation
   #- block: collection
   #  id: talks
   #  content:
